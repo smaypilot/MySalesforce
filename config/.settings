@@ -1,0 +1,16 @@
+{
+    "projectName": "MySalesforce",
+    "username": "may.steven@yahoo.com",
+    "id": "dc914220-a551-11e6-8d7d-c57e129d5070",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/stevenmay/documents/mavensmate/workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
